@@ -36,6 +36,14 @@ Enables users to download a well-formatted PDF report, including the query, rese
 
 User Feedback: Integrates an interactive sidebar form for users to submit suggestions and help improve the system.
 
+# Demo Video
+
+
+https://github.com/user-attachments/assets/4f760c91-8bc3-46e7-b6de-dee3c16dab23
+
+
+
+
 
 
 
