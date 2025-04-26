@@ -1,0 +1,27 @@
+[
+  {
+    "title": "NLP: Building a Grammatical Error Correction model - Deep Learning ...",
+    "content": "NLP: Building a Grammatical Error Correction model - Deep Learning Analytics Deep Learning Analytics / AI and Machine Learning / NLP: Building a Grammatical Error Correction model NLP: Building a Grammatical Error Correction model GEC task can be thought of as a sequence to sequence task where a Transformer model is trained to take an ungrammatical sentence as input and return a grammatically correct sentence. This model is trained on existing datasets by taking as input a clean text and generating a corrupted text. The full code for training the T5 model on 550K examples from C4_200M is available here on Colab. This blog shows how easy it is to leverage HuggingFace and WandB to train NLP models for different use cases.",
+    "url": "https://deeplearninganalytics.org/nlp-building-a-grammatical-error-correction-model/"
+  },
+  {
+    "title": "GitHub - atpaino/deep-text-corrector: Deep learning models trained to ...",
+    "content": "The basic idea behind this project is that we can generate large training datasets for the task of grammar correction by starting with grammatically correct samples and introducing small errors to produce input-output pairs, which can then be used to train a sequence-to-sequence models.",
+    "url": "https://github.com/atpaino/deep-text-corrector"
+  },
+  {
+    "title": "easy-grammar-error-detection-correction-with-machine-learning.md",
+    "content": "Let's now take a look at using Gramformer to build a system for grammar detection & correction. Below, you'll find how to install Gramformer, how to use it for getting corrected text, for getting individual edits, and for getting highlights where errors are detected.",
+    "url": "https://github.com/christianversloot/machine-learning-articles/blob/main/easy-grammar-error-detection-correction-with-machine-learning.md"
+  },
+  {
+    "title": "Grammatical Error Correction Using Neural Networks - Medium",
+    "content": "To extract pair of correct, incorrect sentences from above data set, this snippet of code can be used. 5- Mapping business problem to machine learning problem 5.1- Type of machine learning problem",
+    "url": "https://medium.com/analytics-vidhya/grammatical-error-correction-using-neural-networks-aaf3e9fc91c"
+  },
+  {
+    "title": "Grammatical Error Correction using Deep Learning - Medium",
+    "content": "In fact, while writing this article, I have got 2 to 3 browser add-ons for grammar correction.",
+    "url": "https://medium.com/@rohansawant7978/grammatical-error-correction-using-deep-learning-ad53044c0977"
+  }
+]
