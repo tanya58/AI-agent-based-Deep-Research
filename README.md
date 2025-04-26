@@ -36,4 +36,3 @@ Enables users to download a well-formatted PDF report, including the query, rese
 
 User Feedback: Integrates an interactive sidebar form for users to submit suggestions and help improve the system.
 
-
